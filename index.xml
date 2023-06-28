@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 14:41:49 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyPossibleofHugo</title>
+      <link>/posts/mypossibleofhugo/</link>
+      <pubDate>Wed, 28 Jun 2023 14:41:49 +0800</pubDate>
+      
+      <guid>/posts/mypossibleofhugo/</guid>
+      <description>
+        
+          
+            这是一篇关于在给Hugo配置环境遇到的问题的总结 1.安装所需的软件和工具，如编译器、构建工具等。 2.下载项目代码并解压。 3.进入项目目录，如果项目包含配置文件，请按照说明进行配置。 4.如果项目需要依赖库，请安装相应的库。 5.运行项目，如果出现问题，请检查配置是否正确，并查看项目文档获取帮助。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
